@@ -4,5 +4,5 @@
 你好
 
 ```html
-<p>hellow worle</p>
+<p>hellow github</p>
 ```
